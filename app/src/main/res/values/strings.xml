@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragment Communicate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="question_article">LIKE THE ARTICLE?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="question_song">LIKE THE SONG?</string>
+    <string name="open_text">OPEN FRAGMENT</string>
+    <string name="close_text">CLOSE FRAGMENT</string>
+</resources>
